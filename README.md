@@ -1,4 +1,3 @@
-aurelia
-=======
+# Durandal Aurelia
 
-General information about Durandal Aurelia.
+**[Durandal Aurelia](http://www.aurelia.io/)** is a next generation SPA platform. It is the successor to Durandal 2.x and is written from the ground up for the modern web. *If you are starting work on a new application, this is the framework you want to use.* More information can be found on the [official web site](http://www.aurelia.io/) or at the [GitHub Organization](https://github.com/Aurelia). To keep up to date on [Aurelia](http://www.aurelia.io/), please visit and subscribe to [the official blog](http://blog.durandal.io/). If you have questions, we invite you to join us on [our Gitter Channel](https://gitter.im/Aurelia/Discuss).
